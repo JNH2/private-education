@@ -12,6 +12,9 @@
 <body>
     <header class="header">
         <div class="container">
+            <a href="#" class="IMG_2597.webp">
+            <img src="path/to/your/logo.png" alt="智学堂 Logo" class="site-logo">
+        </a>
             <h1 class="logo">Apos private education</h1>
             <nav class="navbar">
                 <ul>
@@ -66,8 +69,8 @@
                 <h2 class="section-title">Contact Us</h2>
                 <p>For any inquiries or to learn more about our courses, feel free to contact us:</p>
                 <div class="contact-info">
-                    <p><strong>WhatsApp:</strong> <a href="https://wa.me/0765686211" target="_blank">0765686211</a></p>
-                    <p><strong>Email:</strong> <a href="mailto:jingni@gmail.com">jingni@gmail.com</a></p>
+                    <p><strong>WhatsApp:</strong> <a href="https://wa.me/076568XXXX" target="_blank">0765686211</a></p>
+                    <p><strong>Email:</strong> <a href="mailto:jingni@gmail.com">APos@gmail.com</a></p>
                 </div>
             </div>
         </section>
@@ -151,8 +154,8 @@
                 <h2 class="section-title">Kontakt</h2>
                 <p>Für Fragen oder um mehr über unsere Kurse zu erfahren, können Sie uns gerne kontaktieren:</p>
                 <div class="contact-info">
-                    <p><strong>WhatsApp:</strong> <a href="https://wa.me/0765686211" target="_blank">0765686211</a></p>
-                    <p><strong>E-Mail:</strong> <a href="mailto:jingni@gmail.com">jingni@gmail.com</a></p>
+                    <p><strong>WhatsApp:</strong> <a href="https://wa.me/076568XXXX" target="_blank">0765686211</a></p>
+                    <p><strong>E-Mail:</strong> <a href="mailto:jingni@gmail.com"APOs@gmail.com</a></p>
                 </div>
             </div>
         </section>
