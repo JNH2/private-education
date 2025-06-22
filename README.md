@@ -1,23 +1,23 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>智学堂教育辅导</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Zhixuetang Education Tutoring</title>
+    <link rel="stylesheet" href="style-en.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700&family=Open+Sans:wght@300;400;700&display=swap" rel="stylesheet">
 </head>
 <body>
     <header class="header">
         <div class="container">
-            <h1 class="logo">智学堂</h1>
+            <h1 class="logo">Zhixuetang</h1>
             <nav class="navbar">
                 <ul>
-                    <li><a href="#about">关于我们</a></li>
-                    <li><a href="#courses">课程设置</a></li>
-                    <li><a href="#contact">联系我们</a></li>
+                    <li><a href="#about">About Us</a></li>
+                    <li><a href="#courses">Courses</a></li>
+                    <li><a href="#contact">Contact Us</a></li>
                 </ul>
             </nav>
         </div>
@@ -26,36 +26,36 @@
     <main>
         <section id="hero" class="hero-section">
             <div class="container">
-                <h2 class="hero-title">智学堂教育辅导</h2>
-                <p class="hero-subtitle">您孩子学业成长的智慧伙伴</p>
+                <h2 class="hero-title">Zhixuetang Education Tutoring</h2>
+                <p class="hero-subtitle">Your Smart Partner in Academic Growth</p>
             </div>
         </section>
 
         <section id="about" class="about-section">
             <div class="container">
-                <h2 class="section-title">关于我们</h2>
-                <p>欢迎来到智学堂，您孩子学业成长的智慧伙伴。我们专注于为小学三年级至高中十二年级的学生提供高质量的课外辅导。在智学堂，我们致力于激发学生的学习潜力，培养他们的批判性思维与解决问题的能力。我们相信，通过个性化的教学方法和专业的指导，每位学生都能找到最适合自己的学习路径，自信地迎接未来的挑战。</p>
+                <h2 class="section-title">About Us</h2>
+                <p>Welcome to Zhixuetang, your smart partner in academic growth. We specialize in providing high-quality extracurricular tutoring for students from **Grade 3 of primary school to Grade 12 of high school**. At Zhixuetang, we are committed to inspiring students' learning potential and cultivating their critical thinking and problem-solving skills. We believe that through personalized teaching methods and professional guidance, every student can find the learning path that best suits them, confidently facing future challenges.</p>
             </div>
         </section>
 
         <section id="courses" class="courses-section">
             <div class="container">
-                <h2 class="section-title">课程设置</h2>
+                <h2 class="section-title">Our Courses</h2>
                 <div class="course-list">
                     <div class="course-item">
-                        <h3>数学</h3>
-                        <p>从基础概念到高阶解题技巧，全面提升学生的数学思维能力。</p>
-                        <p class="course-target">适用：小学三年级至高中十二年级</p>
+                        <h3>Mathematics</h3>
+                        <p>From fundamental concepts to advanced problem-solving techniques, comprehensively enhancing students' mathematical thinking skills.</p>
+                        <p class="course-target">Target: Primary School Grade 3 to High School Grade 12</p>
                     </div>
                     <div class="course-item">
-                        <h3>计算机</h3>
-                        <p>从编程入门到逻辑思维训练，培养未来科技人才。</p>
-                        <p class="course-target">适用：小学三年级至高中十二年级</p>
+                        <h3>Computer Science</h3>
+                        <p>From programming basics to logical thinking training, nurturing future tech talents.</p>
+                        <p class="course-target">Target: Primary School Grade 3 to High School Grade 12</p>
                     </div>
                     <div class="course-item">
-                        <h3>语言</h3>
-                        <p>涵盖英语、中文等，提升学生的听说读写能力，助力语言沟通。</p>
-                        <p class="course-target">适用：小学三年级至高中十二年级</p>
+                        <h3>Languages</h3>
+                        <p>Including English, Chinese, etc., improving students' listening, speaking, reading, and writing skills, facilitating language communication.</p>
+                        <p class="course-target">Target: Primary School Grade 3 to High School Grade 12</p>
                     </div>
                 </div>
             </div>
@@ -63,11 +63,11 @@
 
         <section id="contact" class="contact-section">
             <div class="container">
-                <h2 class="section-title">联系我们</h2>
-                <p>有任何疑问或希望了解更多课程详情，欢迎随时联系我们：</p>
+                <h2 class="section-title">Contact Us</h2>
+                <p>For any inquiries or to learn more about our courses, feel free to contact us:</p>
                 <div class="contact-info">
                     <p><strong>WhatsApp:</strong> <a href="https://wa.me/0765686211" target="_blank">0765686211</a></p>
-                    <p><strong>邮箱:</strong> <a href="mailto:jingni@gmail.com">jingni@gmail.com</a></p>
+                    <p><strong>Email:</strong> <a href="mailto:jingni@gmail.com">jingni@gmail.com</a></p>
                 </div>
             </div>
         </section>
@@ -75,7 +75,92 @@
 
     <footer class="footer">
         <div class="container">
-            <p>&copy; 2025 智学堂教育辅导. 版权所有.</p>
+            <p>&copy; 2025 Zhixuetang Education Tutoring. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zhixuetang Bildungsförderung</title>
+    <link rel="stylesheet" href="style-de.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;700&family=Open+Sans:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <h1 class="logo">Zhixuetang</h1>
+            <nav class="navbar">
+                <ul>
+                    <li><a href="#about">Über Uns</a></li>
+                    <li><a href="#courses">Kurse</a></li>
+                    <li><a href="#contact">Kontakt</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="hero" class="hero-section">
+            <div class="container">
+                <h2 class="hero-title">Zhixuetang Bildungsförderung</h2>
+                <p class="hero-subtitle">Ihr kluger Partner für akademisches Wachstum</p>
+            </div>
+        </section>
+
+        <section id="about" class="about-section">
+            <div class="container">
+                <h2 class="section-title">Über Uns</h2>
+                <p>Willkommen bei Zhixuetang, Ihrem klugen Partner für akademisches Wachstum. Wir sind darauf spezialisiert, Schülern von der **3. Primarklasse bis zur 12. Gymnasialklasse** hochwertige Nachhilfe und außerschulische Förderung anzubieten. Bei Zhixuetang setzen wir uns dafür ein, das Lernpotenzial der Schüler zu wecken und ihr kritisches Denken sowie ihre Problemlösungsfähigkeiten zu fördern. Wir glauben, dass jeder Schüler durch personalisierte Lehrmethoden und professionelle Anleitung den für sich passenden Lernweg finden und zukünftigen Herausforderungen selbstbewusst begegnen kann.</p>
+            </div>
+        </section>
+
+        <section id="courses" class="courses-section">
+            <div class="container">
+                <h2 class="section-title">Unsere Kurse</h2>
+                <div class="course-list">
+                    <div class="course-item">
+                        <h3>Mathematik</h3>
+                        <p>Von grundlegenden Konzepten bis zu fortgeschrittenen Problemlösungstechniken – umfassende Stärkung der mathematischen Denkfähigkeiten der Schüler.</p>
+                        <p class="course-target">Zielgruppe: 3. Primarklasse bis 12. Gymnasialklasse</p>
+                    </div>
+                    <div class="course-item">
+                        <h3>Informatik</h3>
+                        <p>Vom Programmieren für Anfänger bis zum Training des logischen Denkens – Förderung zukünftiger Tech-Talente.</p>
+                        <p class="course-target">Zielgruppe: 3. Primarklasse bis 12. Gymnasialklasse</p>
+                    </div>
+                    <div class="course-item">
+                        <h3>Sprachen</h3>
+                        <p>Umfasst Englisch, Chinesisch usw., Verbesserung der Hör-, Sprech-, Lese- und Schreibfähigkeiten der Schüler zur Erleichterung der Sprachkommunikation.</p>
+                        <p class="course-target">Zielgruppe: 3. Primarklasse bis 12. Gymnasialklasse</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="contact" class="contact-section">
+            <div class="container">
+                <h2 class="section-title">Kontakt</h2>
+                <p>Für Fragen oder um mehr über unsere Kurse zu erfahren, können Sie uns gerne kontaktieren:</p>
+                <div class="contact-info">
+                    <p><strong>WhatsApp:</strong> <a href="https://wa.me/0765686211" target="_blank">0765686211</a></p>
+                    <p><strong>E-Mail:</strong> <a href="mailto:jingni@gmail.com">jingni@gmail.com</a></p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 Zhixuetang Bildungsförderung. Alle Rechte vorbehalten.</p>
         </div>
     </footer>
 
